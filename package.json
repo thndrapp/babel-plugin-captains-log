@@ -1,6 +1,6 @@
 {
-  "name": "babel-plugin-captains-log",
-  "version": "0.0.0-development",
+  "name": "@thndr/babel-plugin-captains-log",
+  "version": "1.2.2",
   "files": [
     "dist"
   ],
@@ -20,16 +20,16 @@
     "babel-plugin",
     "logging"
   ],
-  "author": "Kyle Welch <kyle@krwelch.com> (http://www.kwelch.devs/)",
+  "author": "Amr Draz <drz@thndr.app> (http:/thndr.app/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwelch/babel-plugin-captains-log.git"
+    "url": "https://github.com/thndr/babel-plugin-captains-log.git"
   },
   "bugs": {
-    "url": "https://github.com/kwelch/babel-plugin-captains-log/issues"
+    "url": "https://github.com/thndr/babel-plugin-captains-log/issues"
   },
-  "homepage": "https://github.com/kwelch/babel-plugin-captains-log#readme",
+  "homepage": "https://github.com/thndr/babel-plugin-captains-log#readme",
   "description": "Babel plugin that injects helpful details into console statements",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
